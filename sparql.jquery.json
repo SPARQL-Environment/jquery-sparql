@@ -1,0 +1,35 @@
+{
+  "name": "sparql",
+  "version": "1.0",
+  "title": "SPARQL",
+  "description": "A jQuery plugin developed to be a flexible interface with any SPARQL database.",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "sparql",
+    "database",
+    "search",
+    "ajax",
+    "input",
+    "query",
+    "jena",
+    "fuseki"
+  ],
+  "homepage": "https://github.com/wcatron/jquery-sparql",
+  "author": {
+    "name": "Weston Catron",
+    "url": "https://github.com/wcatron/"
+  },
+  "bugs": "https://github.com/wcatron/jquery-sparql/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/wcatron/jquery-sparql/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.5"
+  },
+  "docs": "https://github.com/wcatron/jquery-sparql/blob/master/README.md",
+  "demo": "https://github.com/wcatron/jquery-sparql"
+}
