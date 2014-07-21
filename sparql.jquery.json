@@ -1,6 +1,6 @@
 {
   "name": "sparql",
-  "version": "1.0",
+  "version": "1.0.0",
   "title": "SPARQL",
   "description": "A jQuery plugin developed to be a flexible interface with any SPARQL database.",
   "keywords": [
